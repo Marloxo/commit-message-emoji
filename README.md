@@ -33,6 +33,7 @@ Deployment | :rocket: `:rocket:`
 Release | :shipit: `:shipit:`
 New Feature | :sparkles: `:sparkles:`
 Metadata | :card_index: `:card_index:`
+Refactoring | :package: `:package:`
 Documentation | :books: `:books:`
 Writing docs | :memo: `:memo:`
 Cosmetic | :lipstick: `:lipstick:`
